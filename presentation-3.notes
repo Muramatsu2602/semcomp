@@ -1,0 +1,21 @@
+[2020-09-28]
+Conceito de tipos de dados NoSQL (postgres, mySQL, etc):
+search later
+Types:
+
+- Document:
+    - MongoDB
+- Graph:
+    - neo4j
+    - focused on relations
+- Key-Value:
+    - Riak
+    - Ignite
+    - Redis
+- Wide-Collumn:
+    - Cassandra
+    - Apache Hbase
+    - Scylla
+
+Concept - Tipos de replicacao - Master/Replica:
+    

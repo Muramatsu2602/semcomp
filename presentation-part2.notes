@@ -1,0 +1,21 @@
+ [2020-09-28]
+ 
+Retrocompatibilidade de APIS:
+
+Conceito - Blocking - 200 Threads servem 200 clientes:
+
+Non Blocking (REACTIVE):
+- Node JS:
+    - uma thread so eh utilizada em um periodo que eh usada no servidor
+
+- permitem operacoes equivalentes ao outros apps block mas !gastam menos recursos de thread instanciada!
+
+V9:
+
+
+Timeout:
+
+    - Circuit Breaker:
+        - Bolsa de valores: impede transacoes durante x tempo
+
+No de cache no limite:

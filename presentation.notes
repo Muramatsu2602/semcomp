@@ -1,4 +1,44 @@
-*(slide 7) Problema 1 - Limite de operacoes:*
+[2020-09-28]
+== Problema 1 ==
+
+Auto Scalling:
+    - Dar vazao a demanda
+    - Evitando gargalo
+
+Replicacao de Base:
+    - Instancia RW e outra RO da BD Ravioli
+    - Dilui stress de op em tipos de operacoes
+
+Scalling Vertical:
+Ex: lolzinho
+    - nao da pra colocar dois PC
+- Troca Instancia de escrita atual por uma maior
+
+Scalling Horintal:
+- Nao cresce o nivel da intancia, mas a quantidade de instancias
+
+Bonus - Failover:
+
+    Extranet --> DNS escrita
+
+V1:
+
+Escrita < Leitura em termos de operacoes
+
+Extranet --> RW ( amanha vendo um burgao novo)
+                        |
+                        |
+                        v
+Marketplace Ifood -->  RO RO RO (escalavel - Horintal)
 
 
+*== Problema 2 Falta de um dominio, todos servico acessa base ==*
+
+Integracoes, Extranet, Portal do Parceiro --> Ravioli RW
+
+Marketplace --> ``
+
+Solution - Conceito trigger:
+
+user --> menu OLD --> Menu RW
 
