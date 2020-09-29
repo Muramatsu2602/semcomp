@@ -1,5 +1,5 @@
 # YouTube Playlist Downloader BOT
-Using python, we can create a bot that accesses a video playlist on youtube and downloads it locally
+Using python, we can create a bot that accesses a video playlist on youtube and downloads it locally. It's a basic web-scrapping example using Selenium and Python3.
 
 ## Bash commands to build this app
 ```python3 -m pip install selenium
