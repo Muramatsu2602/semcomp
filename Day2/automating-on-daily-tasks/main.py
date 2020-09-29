@@ -99,7 +99,7 @@ def define_driver(download_path):
     )
 
     # creating of webdriver obj
-    return Chrome(options=options, executable_path='chromedriver.exe')
+    return Chrome(options=options, executable_path='./chromedriver')
 
 
 
