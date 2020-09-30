@@ -1,0 +1,38 @@
+[2020-09-30]
+!https://carlavieira.dev!
+
+"IA is a opaque box"
+- Very abstract to explain
+- Biases hard to find
+"Tech is political, never neutral"
+
+How to Open the Box?:
+eXplainable Artificial Intelligence
+- Transparence
+
+Interpretabilidade Intrinsceca:
+
+Interpretabilidade Extrinscica:
+
+Score de Emprestimo:
+- Consumidores ditam explicacao:
+    - Data scientist
+    - Leigo
+- Explicacoes numericas os contrafactuais
+    - "seria aprovado se o numero de contas fosse x e nao y"
+
+Tools to make IA inteligible:
+- Google Model Cards:
+    - Como documentar um modelo sem ferir os dados e privacidade?
+        - pq usamos tais metricas, como treinou
+        - quais limitacoes eticas
+        - usa !TensorFlow!
+
+Desafios:
+- Como avaliar as explicacoes geradas pelos metodos?
+- Como definir explicabilidade/fairness/transparencia de modelos
+- Como construir tecnicas centradas nas comunidades impactadas por essas tecnologias?
+
+Joy:
+"Qualquer tecnologia que criamos reflete tanto nossas aspitacoes quanto nossas limitacoes. Se formos limitados na hora de pensar em, isso reflete "
+
