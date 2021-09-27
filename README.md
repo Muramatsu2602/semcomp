@@ -1,6 +1,10 @@
+# Semcomp - workshoops, talks and all things Computer Science!
 
-<img alt="semcomp23's logo" src="img/semcomplogo23.jpg">
+<img alt="Eagle edu Mission Modal"  src="img/logo.png" />
 
-# Semcomp23 - Minicourses!
-Minicursos da [Semcomp 23](https://semcomp.icmc.usp.br/), o maior evento de computacao do Brasil ! Aqui vou registrar alguns minicursos ofertados nessa semana!
+---
+
+## Introduction
+
+A Semcomp é a Semana Acadêmica de Computação dos cursos de Ciências de Computação e Sistemas de Informação do ICMC-USP. Ela é composta de palestras, minicursos, gamenight e muito mais!
 
